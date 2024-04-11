@@ -99,7 +99,7 @@ in test coverage</b>
 
 ## Contact
 
-<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:ruchi.kachroo93@gmail.com">jatinvsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/ruchi-kachroo">LinkedIn</a>.</p>
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:ruchi.kachroo93@gmail.com">ruchi.kachroo93@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/ruchi-kachroo">LinkedIn</a>.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruchi-kachroo//">
